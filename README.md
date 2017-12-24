@@ -1,4 +1,4 @@
-# Project Title
+# Handwritten digit of MNIST database recognition with Java
 
 Java implementation of handwritten digit recognition with the popular "MNIST" database. Created during the programming practicum of artificial intelligence course at the University of Paris Dauphine.
 
